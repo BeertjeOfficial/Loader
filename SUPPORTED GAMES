@@ -1,4 +1,4 @@
-Beertje Hub
+local sigma  = "Beertje Hub
 
 supported Games
 
@@ -21,4 +21,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/BeertjeOfficial/Loade
 Status
 🟢 = updated
 🟡 = updating
-🔴 = outdated/discontinued
+🔴 = outdated/discontinued"
+
+print(sigma)
