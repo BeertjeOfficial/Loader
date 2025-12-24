@@ -1,10 +1,24 @@
-[Murder Mystery 2](https://www.roblox.com/games/142823291/Murder-Mystery-2) 🟢
-[🌴 Chop Your Tree](https://www.roblox.com/games/123557829667240/Chop-Your-Tree) 🟢
-[[OPE V2] Fruit Battlegrounds](https://www.roblox.com/games/9224601490/Fruit-Battlegrounds) 🟢
-[Blind Shot](https://www.roblox.com/games/118614517739521/Blind-Shot) 🟢
-[🎄Evade🎄](https://www.roblox.com/games/9872472334/Evade) 🟢
-[Punch Simulator 👊[FREE UGC]](https://www.roblox.com/games/14236123211/Punch-Simulator) 🟢
-[[UPD] Protect the House 🏠💥](https://www.roblox.com/games/86552649788096/Protect-the-House) 🟢
-[[FPS] Flick](https://www.roblox.com/games/136801880565837/Flick) 🟢
-[Drill Block Simulator!](https://www.roblox.com/games/13722853585/Drill-Block-Simulator) 🟢
-[Last Run](https://www.roblox.com/games/137604575642443/Last-Run) 🟢
+Beertje Hub
+
+supported Games
+
+Murder Mystery 2 🟢
+🌴 Chop Your Tree 🟢
+[OPE V2] Fruit Battlegrounds 🟢
+Blind Shot 🟢
+🎄Evade🎄 🟢
+Punch Simulator 👊[FREE UGC] 🟢
+[UPD] Protect the House 🏠💥 🟢
+[FPS] Flick 🟢
+Drill Block Simulator! 🟢
+Last Run 🟢
+FNAF: Eternal Nights 🍕 🟢
+The Lost Front 🟢
+
+Script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BeertjeOfficial/Loader/refs/heads/main/Beertje"))()
+
+Status
+🟢 = updated
+🟡 = updating
+🔴 = outdated/discontinued
