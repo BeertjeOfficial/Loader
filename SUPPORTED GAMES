@@ -1,4 +1,4 @@
-local sigma  = "Beertje Hub
+Beertje Hub
 
 supported Games
 
@@ -23,4 +23,4 @@ Status
 🟡 = updating
 🔴 = outdated/discontinued"
 
-print(sigma)
+
